@@ -6,6 +6,17 @@
   "commit": false,
   "contributors": [
     {
+
+      "login": "KIGAMEKUN",
+      "name": "KIGAMEKUN",
+      "avatar_url": -,
+      "profile": "https://github.com/KIGAMEKUN",
+      "contributions": [
+        "doc",
+        "code(morse.java)"
+      ]
+    },
+    {
       "login": "navneetsn1809",
       "name": "navneetsn1809",
       "avatar_url": "https://avatars2.githubusercontent.com/u/71883812?v=4",
